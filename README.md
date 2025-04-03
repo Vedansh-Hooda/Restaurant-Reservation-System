@@ -4,17 +4,19 @@ I am a B.Tech student at Guru Tegh Bahadur Instistute of Technology(IPU) with a 
 Beyond coding, I focus on effective communication, teamwork, and problem-solving, which help me collaborate efficiently on projects and bring ideas to life.
 
 🔹 Technical Skills
-Frontend Development: HTML, CSS, JavaScript
+    
+    Frontend Development: HTML, CSS, JavaScript
 
-Backend & Full Stack: MERN (Basic)
+    Backend & Full Stack: MERN (Basic)
 
-🔹 Soft Skills
-Problem-Solving & Critical Thinking
+🔹 Soft Skills:
 
-Teamwork & Collaboration
+    Problem-Solving & Critical Thinking
 
-Communication & Presentation
+    Teamwork & Collaboration
 
-Leadership & Team Management
+    Communication & Presentation
 
-Presentation & Public Speaking
+    Leadership & Team Management
+
+    Presentation & Public Speaking
